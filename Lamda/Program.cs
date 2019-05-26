@@ -27,7 +27,8 @@ namespace Lamda
                 new Person(){ firstName = "John", surname = "Connor", age = 30 },
                 new Person(){ firstName = "Vasia", surname = "Pupkin", age = 35 },
                 new Person(){ firstName = "John", surname = "Doe", age = 25 },
-                new Person(){ firstName = "Masha", surname = "Pupkina", age = 20 }
+                new Person(){ firstName = "Masha", surname = "Pupkina", age = 20 },
+                new Person(){ firstName = "Ivan", surname = "Ivanovich", age = 40 }
             };
 
             // UniversalSort.Sort(ref list, IntComparator);
